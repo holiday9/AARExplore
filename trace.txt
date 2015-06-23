@@ -12,3 +12,5 @@ Res layout
 ?出现了两个icon启动图标
 保留一个entry
 
+// test git
+
