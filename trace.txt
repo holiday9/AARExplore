@@ -1,1 +1,14 @@
 探索aar的使用
+
+创建一个aar
+ 
+测试引用资源：
+Source file
+Res drawable
+Res layout
+
+?需要手动设置依赖
+?关注资源合并
+?出现了两个icon启动图标
+保留一个entry
+
